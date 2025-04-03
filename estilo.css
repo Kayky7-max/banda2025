@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+li{
+    list-style-type: none;
+    display: flex; 
+}
+
+header{
+    height: 100%;
+    width: 100% ;
+    background-color: blue;
+    
+}
